@@ -8,19 +8,19 @@ I'm *Durdu Ilknur DOGAN*
 ## Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/ilknurdogan/" target="_blank" rel="noreferrer" title="Linkedin">
-    <img width="30" src="/images/linkedin.png"> 
+    <img width="30" src="images/linkedin.png"> 
   </a>
   <img width="8" />
-  <a href="https://x.com/ddilknurdgn/" target="_blank" rel="noreferrer" title="Twitter">
-    <img width="30" src="/images/twitter.png"> 
+  <a href="https://x.com/ddilknurdgn/" target="_blank" rel="noreferrer" title="X">
+    <img width="30" src="images/x.png"> 
   </a>
   <img width="8" />
   <a href="https://www.instagram.com/ilknur.ddogan_/" target="_blank" rel="noreferrer" title="Instagram">
-    <img width="30" src="/images/instagram.png"> 
+    <img width="30" src="images/instagram.png"> 
   </a>
   <img width="8" />
   <a href="mailto: ilknurddogan265@gmail.com" target="_blank" rel="noreferrer" title="Email">
-    <img width="30" src="/images/gmail.png"/>
+    <img width="30" src="images/gmail.png"/>
   </a>
 </p>
 
