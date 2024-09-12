@@ -7,21 +7,13 @@ I'm *Durdu Ilknur DOGAN*
 
 ## Connect with me
 <p align="left">
-  <a href="https://www.linkedin.com/in/ilknurdogan/" target="_blank" rel="noreferrer" title="Linkedin">
-    <img width="30" src="images/linkedin.png"> 
-  </a>
-  <img width="8" />
-  <a href="https://x.com/ddilknurdgn/" target="_blank" rel="noreferrer" title="X">
-    <img width="30" src="images/x.png"> 
-  </a>
-  <img width="8" />
-  <a href="https://www.instagram.com/ilknur.ddogan_/" target="_blank" rel="noreferrer" title="Instagram">
-    <img width="30" src="images/instagram.png"> 
-  </a>
-  <img width="8" />
-  <a href="mailto: ilknurddogan265@gmail.com" target="_blank" rel="noreferrer" title="Email">
-    <img width="30" src="images/gmail.png"/>
-  </a>
+  <a href="https://www.linkedin.com/in/ilknurdogan/" target="_blank" rel="noreferrer" title="Linkedin"><img src="images/linkedin.png"  height="28"></a>
+  <img width="5">
+  <a href="mailto: ilknurddogan265@gmail.com" target="_blank" rel="noreferrer" title="Mail"> <img src="images/gmail.png" height="30"></a>
+  <img width="5">
+  <a href="https://x.com/ddilknurdgn/" target="_blank" rel="noreferrer" title="X"><img src="images/x.png" height="30"></a>
+  <img width="5">
+  <a href="https://www.instagram.com/ilknur.ddogan_/" target="_blank" rel="noreferrer" title="Instagram"> <img src="images/instagram.png"  height="30""></a>
 </p>
 
 
