@@ -6,7 +6,7 @@
 - 👩‍💻 I’m interested in Backend Development
 - 📫 You can contact me via [ilknurddogan265@gmail.com](mailto:ilknurddogan265@gmail.com)
 
-## Connect with me
+<!--## Connect with me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ilknurdogan/" target="_blank" rel="noreferrer" title="Linkedin"><img src="images/linkedin.png"  height="33"></a>
@@ -16,7 +16,7 @@
   <a href="https://x.com/ddilknurdgn/" target="_blank" rel="noreferrer" title="X"><img src="images/x.png" height="30"></a>
   <img width="5">
   <a href="https://www.instagram.com/ilknur.ddogan_/" target="_blank" rel="noreferrer" title="Instagram"> <img src="images/instagram.png"  height="30"></a>
-</p>
+</p> -->
 
 <!-- ## Skills
 <p align="left">
