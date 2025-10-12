@@ -2,8 +2,8 @@
 
 ### I'm _Durdu Ilknur DOGAN_
 
-- 🎓 I'm studying computer engineering at Pamukkale University(4/4)
-- 👩‍💻 I’m interested in Backend Development
+- 👩‍💻 I'm currently working as a Backend Engineer at Getir.
+- 🎓 I graduated from Pamukkale University with a degree in Computer Engineering.
 - 📫 You can contact me via [ilknurddogan265@gmail.com](mailto:ilknurddogan265@gmail.com)
 
 <!--## Connect with me
