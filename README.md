@@ -1,6 +1,6 @@
 # Hello 👋🏼
 
-### I'm _Durdu Ilknur DOGAN_
+### I'm _Ilknur DOGAN_
 
 - 👩‍💻 I'm currently working as a Backend Engineer at Getir.
 - 🎓 I graduated from Pamukkale University with a degree in Computer Engineering.
